@@ -1,9 +1,9 @@
 # Решение задания на курсе DS School Sber
 
 ## Что использовал:
-- ![numba](https://img.shields.io/badge/-numba-090909?style=for-the-badge&logo=numba)
-- ![joblib](https://img.shields.io/badge/-joblib-fe8130?style=for-the-badge)
-- ![line_profiler](https://img.shields.io/badge/-line_profiler-f0ff00?style=for-the-badge)
+![numba](https://img.shields.io/badge/-numba-090909?style=for-the-badge&logo=numba)
+![joblib](https://img.shields.io/badge/-joblib-fe8130?style=for-the-badge)
+![line_profiler](https://img.shields.io/badge/-line_profiler-f0ff00?style=for-the-badge)
 
 ## Краткое описание поставленной задачи
 
