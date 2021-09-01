@@ -23,7 +23,7 @@ MAX_TOP_CANDIDATES: int = 10
 most_co_occurring_products: tp.Dict[str, tp.List[str]] = dict()
 
 
-def splitting_list(data: tp.List[str], number_of_parts: int) -> tp.Generator[tp.List[str]]:
+def splitting_list(data: tp.List[str], number_of_parts: int) -> tp.Generator[tp.List[str], None, None]:
     part_len = ceil(len(data) / number_of_parts)
     for k in range(number_of_parts):
         yield data[part_len * k: part_len * (k + 1)]
